@@ -6,11 +6,11 @@
       "lat": 19.0068,
       "lon": 72.8162,
       "fillLevel": 100,
-      "weight": 45.3,
-      "temperature": 24.8,
+      "weight": 44.8,
+      "temperature": 24.9,
       "battery": 85,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.689Z"
+      "lastUpdate": "2026-06-24T10:13:36.696Z"
     },
     {
       "id": "bin_02",
@@ -18,11 +18,11 @@
       "lat": 19.0433,
       "lon": 72.8231,
       "fillLevel": 100,
-      "weight": 44.8,
+      "weight": 45.2,
       "temperature": 24.9,
       "battery": 81,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.691Z"
+      "lastUpdate": "2026-06-24T10:13:36.697Z"
     },
     {
       "id": "bin_03",
@@ -30,11 +30,11 @@
       "lat": 19.1026,
       "lon": 72.8242,
       "fillLevel": 100,
-      "weight": 44.9,
-      "temperature": 24.8,
+      "weight": 45.4,
+      "temperature": 25.1,
       "battery": 78,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.692Z"
+      "lastUpdate": "2026-06-24T10:13:36.698Z"
     },
     {
       "id": "bin_04",
@@ -43,10 +43,10 @@
       "lon": 72.8347,
       "fillLevel": 100,
       "weight": 45.4,
-      "temperature": 24.8,
+      "temperature": 24.9,
       "battery": 88,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.692Z"
+      "lastUpdate": "2026-06-24T10:13:36.699Z"
     },
     {
       "id": "bin_05",
@@ -54,11 +54,11 @@
       "lat": 18.9438,
       "lon": 72.8232,
       "fillLevel": 100,
-      "weight": 44.7,
-      "temperature": 25,
+      "weight": 45.2,
+      "temperature": 24.5,
       "battery": 84,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.692Z"
+      "lastUpdate": "2026-06-24T10:13:36.700Z"
     },
     {
       "id": "bin_06",
@@ -66,11 +66,11 @@
       "lat": 19.1983,
       "lon": 72.9786,
       "fillLevel": 100,
-      "weight": 45.2,
-      "temperature": 25.2,
+      "weight": 44.5,
+      "temperature": 25,
       "battery": 2,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.693Z"
+      "lastUpdate": "2026-06-24T10:13:36.701Z"
     },
     {
       "id": "bin_07",
@@ -78,11 +78,11 @@
       "lat": 19.0268,
       "lon": 72.8374,
       "fillLevel": 100,
-      "weight": 44.9,
-      "temperature": 24.6,
+      "weight": 45.3,
+      "temperature": 24.8,
       "battery": 73,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.693Z"
+      "lastUpdate": "2026-06-24T10:13:36.702Z"
     },
     {
       "id": "bin_08",
@@ -90,11 +90,11 @@
       "lat": 18.915,
       "lon": 72.8278,
       "fillLevel": 100,
-      "weight": 44.5,
+      "weight": 44.9,
       "temperature": 25,
       "battery": 87,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.694Z"
+      "lastUpdate": "2026-06-24T10:13:36.703Z"
     },
     {
       "id": "bin_09",
@@ -102,11 +102,11 @@
       "lat": 19.1334,
       "lon": 72.8354,
       "fillLevel": 100,
-      "weight": 45.2,
-      "temperature": 25.2,
+      "weight": 44.5,
+      "temperature": 25,
       "battery": 80,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-24T10:13:24.694Z"
+      "lastUpdate": "2026-06-24T10:13:36.704Z"
     }
   ],
   "alerts": [
