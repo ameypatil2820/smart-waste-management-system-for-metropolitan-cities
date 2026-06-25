@@ -1141,7 +1141,7 @@ function initCharts() {
       datasets: [{
         label: 'Collected Waste Load (Tons)',
         data: [12.4, 14.1, 11.8, 15.6, 16.2, 9.8, 8.4],
-        borderColor: '#00ffa3',
+        borderColor: '#3b82f6',
         borderWidth: 3,
         tension: 0.4,
         fill: true,
@@ -1152,11 +1152,11 @@ function initCharts() {
           const gradient = ctx.createLinearGradient(0, chartArea.top, 0, chartArea.bottom);
           
           if (currentTheme === 'dark') {
-            gradient.addColorStop(0, 'rgba(0, 255, 163, 0.2)');
-            gradient.addColorStop(1, 'rgba(0, 255, 163, 0)');
+            gradient.addColorStop(0, 'rgba(59, 130, 246, 0.2)');
+            gradient.addColorStop(1, 'rgba(59, 130, 246, 0)');
           } else {
-            gradient.addColorStop(0, 'rgba(16, 185, 129, 0.25)');
-            gradient.addColorStop(1, 'rgba(16, 185, 129, 0)');
+            gradient.addColorStop(0, 'rgba(37, 99, 235, 0.25)');
+            gradient.addColorStop(1, 'rgba(37, 99, 235, 0)');
           }
           return gradient;
         }
@@ -1210,7 +1210,7 @@ function applyThemeToCharts() {
   generationTrendChart.options.scales.x.ticks.color = textColor;
   
   // Re-generate background gradient color since theme changes
-  generationTrendChart.data.datasets[0].borderColor = currentTheme === 'dark' ? '#00ffa3' : '#10b981';
+  generationTrendChart.data.datasets[0].borderColor = currentTheme === 'dark' ? '#3b82f6' : '#2563eb';
   generationTrendChart.update();
 }
 
