@@ -129,7 +129,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 1.35rem;
-  color: #060907;
+  color: #ffffff;
   box-shadow: 0 0 15px var(--primary-glow);
   transition: var(--transition);
 }
@@ -585,7 +585,7 @@ body {
 
 .selector-btn.active {
   background-color: var(--primary);
-  color: #060907 !important;
+  color: #ffffff !important;
   box-shadow: 0 2px 8px var(--primary-glow);
 }
 
@@ -890,7 +890,7 @@ body {
 
 .btn-primary {
   background: linear-gradient(135deg, var(--primary), var(--secondary));
-  color: #060907;
+  color: #ffffff;
   box-shadow: 0 4px 12px var(--primary-glow);
 }
 
