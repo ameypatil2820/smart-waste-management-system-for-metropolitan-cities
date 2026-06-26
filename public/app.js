@@ -3,7 +3,7 @@ let bins = [];
 let alerts = [];
 let activeView = 'dashboard';
 let directoryViewMode = 'table'; // 'table' or 'grid'
-let currentTheme = 'dark'; // 'dark' or 'light'
+let currentTheme = 'light'; // 'dark' or 'light'
 let ws = null;
 
 // Leaflet Map references
@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Theme Selector Initialization
 function initTheme() {
-  const savedTheme = localStorage.getItem('theme') || 'dark';
+  const savedTheme = localStorage.getItem('theme') || 'light';
   currentTheme = savedTheme;
   document.body.setAttribute('data-theme', currentTheme);
   
